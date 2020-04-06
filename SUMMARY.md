@@ -17,8 +17,8 @@
   * [登陆界面修改](mian-ban-zhu-ti/xiu-gai-deng-lu-jie-mian/README.md)
     * [模板之家](http://www.cssmoban.com/tags.asp?n=%E7%99%BB%E5%BD%95)
   * [其他页面修改](mian-ban-zhu-ti/xiu-gai-qi-ta-jie-mian.md)
-* [常见问题 Q&A](chang-jian-wen-ti-qa/README.md)
-  * [暂置](chang-jian-wen-ti-qa/untitled.md)
+* [常见问题 Q&A](q-and-a/README.md)
+  * [暂置](q-and-a/untitled.md)
 * [MCSM中文官方站](http://mcsm.suwings.top/)
 * [MCSM on Mcbbs](https://www.mcbbs.net/thread-140678-1-1.html)
 
